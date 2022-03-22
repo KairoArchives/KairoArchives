@@ -8,6 +8,8 @@ I’m currently studying different coding languages in order to feed my analytic
 
 
 
-You can contact my via mail : kairoarchives@gmail.com 
+You can contact me via mail : kairoarchives@gmail.com 
+Check my Linkedin Page : www.linkedin/in/guillem-cabezas-castellvi
+Check my posts on Medium : https://medium.com/@KairoArchives
 
 
