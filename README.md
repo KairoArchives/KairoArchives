@@ -1,16 +1,13 @@
-### Hi there 👋
+Hi there,
 
-<!--
-**KairoArchives/KairoArchives** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- I'm a Business management graduate, with special interests and strenghts in Statistics and Finance. 
+- I’m currently studying different coding languages in order to feed my analytical needs.  I mostly use Excel, SQL and pandas for it. 
 
-Here are some ideas to get you started:
+- My github page is a composite of different projects i've been doing to improve and practise the aforessaid tools. 
+- I'm open to work in any kind of project in need of Webscraping, Data Cleaning, Visualization or any kind of Data exploration. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+You can contact my via mail : kairoarchives@gmail.com 
+
+
